@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash(npx*)",
+      "Bash(curl -s *)",
+      "PowerShell(Get-ChildItem)"
+    ]
+  }
+}
